@@ -59,7 +59,7 @@ const Register = () => {
     }
 
     return (
-        <div className="hero container mx-auto px-2 md:px-6 py-10 md:py-24">
+        <div className="hero container mx-auto px-2 md:px-6 py-10">
             <div className="hero-content flex-col md:flex-row-reverse">
                 <div className="text-center flex-1 lg:text-left">
                     <img src={loginImg} alt="" />

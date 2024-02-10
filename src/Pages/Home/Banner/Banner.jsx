@@ -9,7 +9,7 @@ const Banner = () => {
             <div className="grid lg:grid-cols-2 grid-cols-1 bg-white rounded-lg">
                 <div>
                     <div className="flex flex-col justify-center items-center lg:items-start h-full">
-                        <h1 className="text-2xl md:text-3xl lg:text-4xl font-bold text-[#1f4b3f]">TaskMaster</h1>
+                        <h1 className="text-2xl md:text-3xl lg:text-4xl font-bold text-[#1f4b3f]">Task TM</h1>
                         <h2 className="font-semibold text-xl md:text-2xl lg:text-3xl py-3 md:py-4 lg:py-6 text-center lg:text-start">
                             Streamline Your Workflow with Instant Collaboration.
                         </h2>
